@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name psu)(type Legacy)(uri ${KIPRJMOD}/../../kicad-modules/libs/psu.lib)(options "")(descr ""))
+)

@@ -1,0 +1,50 @@
+EESchema Schematic File Version 4
+LIBS:malinois-cache
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L psu:TP4056 U?
+U 1 1 5E6AF281
+P 2950 3275
+F 0 "U?" H 2925 3890 50  0000 C CNN
+F 1 "TP4056" H 2925 3799 50  0000 C CNB
+F 2 "" H 2950 3275 50  0001 C CNN
+F 3 "" H 2950 3275 50  0001 C CNN
+	1    2950 3275
+	1    0    0    -1  
+$EndComp
+$Comp
+L psu:DW01A U?
+U 1 1 5E6AF8A4
+P 5125 2600
+F 0 "U?" H 5150 3065 50  0000 C CNN
+F 1 "DW01A" H 5150 2974 50  0000 C CNB
+F 2 "" H 5125 2600 50  0001 C CNN
+F 3 "" H 5125 2600 50  0001 C CNN
+	1    5125 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L psu:FS8205A U?
+U 1 1 5E6AFB5F
+P 5150 3900
+F 0 "U?" H 5769 4084 50  0000 L CNN
+F 1 "FS8205A" H 5769 3993 50  0000 L CNN
+F 2 "" H 5100 3850 50  0001 C CNN
+F 3 "" H 5100 3850 50  0001 C CNN
+	1    5150 3900
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
